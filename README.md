@@ -4,6 +4,6 @@ To run batch jobs using the LSF system, you could run with the following command
 
 
 `
-python run/submitProduction.py
+python run/Batch/submitProduction.py
 `
 
