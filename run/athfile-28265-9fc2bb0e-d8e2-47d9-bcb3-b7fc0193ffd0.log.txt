@@ -1,0 +1,73 @@
+Extracting in-file metadata without athena sub-process from file /eos/user/m/metsai/DAOD/bkg/WW/mc16_13TeV/DAOD_HIGG3D1.12919256._000001.pool.root.1
+================================================================================
+{'run_type': ['N/A'], 'file_guid': '9F60FE2B-3754-A648-9C69-B2CEF759E9E3'}
+mc_event_weights.size: 115
+mc_event_weights value 1.0
+user_type Overlaid
+processing container [/Digitization/Parameters]
+==names== (sz: 0)
+==iovs== (sz: 1)
+==attrs== (sz: 1)
+processing container [/GLOBAL/BField/Maps]
+==names== (sz: 0)
+==iovs== (sz: 3)
+==attrs== (sz: 3)
+processing container [/Generation/Parameters]
+==names== (sz: 0)
+==iovs== (sz: 0)
+==attrs== (sz: 1)
+processing container [/LAR/LArAffectedRegionInfo]
+processing container [/Simulation/Parameters]
+==names== (sz: 0)
+==iovs== (sz: 1)
+==attrs== (sz: 1)
+processing container [/TRIGGER/HLT/HltConfigKeys]
+==names== (sz: 0)
+==iovs== (sz: 1)
+==attrs== (sz: 1)
+processing container [/TRIGGER/HLT/Menu]
+==names== (sz: 0)
+==iovs== (sz: 4000)
+==attrs== (sz: 4000)
+processing container [/TRIGGER/HLT/PrescaleKey]
+==names== (sz: 0)
+==iovs== (sz: 1)
+==attrs== (sz: 1)
+processing container [/TRIGGER/HLT/Prescales]
+==names== (sz: 0)
+==iovs== (sz: 4000)
+==attrs== (sz: 4000)
+processing container [/TRIGGER/LVL1/ItemDef]
+==names== (sz: 0)
+==iovs== (sz: 444)
+==attrs== (sz: 444)
+processing container [/TRIGGER/LVL1/Lvl1ConfigKey]
+==names== (sz: 0)
+==iovs== (sz: 1)
+==attrs== (sz: 1)
+processing container [/TRIGGER/LVL1/Menu]
+==names== (sz: 0)
+==iovs== (sz: 444)
+==attrs== (sz: 444)
+processing container [/TRIGGER/LVL1/Prescales]
+==names== (sz: 0)
+==iovs== (sz: 512)
+==attrs== (sz: 512)
+processing container [/TRIGGER/LVL1/Thresholds]
+==names== (sz: 0)
+==iovs== (sz: 296)
+==attrs== (sz: 296)
+processing container [/TagInfo]
+==names== (sz: 0)
+==iovs== (sz: 0)
+==attrs== (sz: 1)
+:::::: summary ::::::
+ - nbr events:  45649
+ - run numbers: [284500L]
+ - lumiblocks: [1L, 2L, 3L, 4L, 5L, 6L, 7L, 8L, 9L, 10L, 11L, 12L, 13L, 14L, 15L, 16L, 17L, 18L, 19L, 20L, 21L, 22L, 23L, 24L, 25L, 26L, 27L, 28L, 29L, 30L, 31L, 32L, 33L, 34L, 35L, 36L, 37L, 38L, 39L, 40L, 41L, 42L, 43L, 44L, 45L]
+ - evt types:  ('IS_SIMULATION', 'IS_ATLAS', 'IS_PHYSICS')
+ - item list: 113
+ - processing tags: ['StreamDAOD_HIGG3D1']
+ - geometry: ATLAS-R2-2016-01-00-01
+ - conditions tag: OFLCOND-MC16-SDR-16
+ - tag-info: ['randomSeed', '/TRIGGER/HLT/HltConfigKeys', '/GLOBAL/TrackingGeo/LayerMaterialV2', '/TRIGGER/HLT/Groups', 'beam_type', 'evgenTune', '/TRIGGER/LVL1/Lvl1ConfigKey', 'AtlasRelease_AODtoDAOD', 'AtlasRelease_', 'AtlasRelease', 'lhefGenerator', '/LAR/Identifier/CalibIdMap', 'IOVDbGlobalTag', '/Digitization/Parameters', 'RPC_TimeSchema', '/TRIGGER/LVL1/Thresholds', '/TRIGGER/LVL1/Prescales', 'generators', 'MDT_CablingType', '/GLOBAL/BTagCalib/RUN12', 'AtlasRelease_RAWtoESD', 'triggerStreamOfFile', 'project_name', 'specialConfiguration', 'AODFixVersion', 'TGC_CablingType', 'evgenProcess', '/CALO/Ofl/H1Weights/H1WeightsCone4Topo', '/TRIGGER/LVL1/ItemDef', 'AMITag', 'RPC_CablingType', 'AtlasRelease_ESDtoAOD', 'beam_energy', '/LAR/Identifier/OnOffIdMap', '/TRIGGER/LVL1/Menu', '/TRIGGER/HLT/Prescales', 'GeoAtlas', '/LAR/Identifier/FebRodMap', '/TRIGGER/HLT/Menu', '/TRIGGER/HLT/PrescaleKey']

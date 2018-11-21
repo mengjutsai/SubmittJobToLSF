@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Edited By POOL -->
+<!DOCTYPE POOLFILECATALOG SYSTEM "InMemory">
+<POOLFILECATALOG>
+  <File ID="A7DE84A8-CEF4-AB4E-8B4D-E8D1FE920AB1">
+    <physical>
+      <pfn filetype="ROOT_All" name="/afs/cern.ch/work/k/kkoeneke/public/DataMC/DxAOD/rel20p7/mc15_13TeV.341080.PowhegPythia8EvtGen_CT10_AZNLOCTEQ6L1_VBFH125_WWlvlv_EF_15_5.merge.DAOD_HIGG3D1.e3871_s2608_s2183_r7772_r7676_p3042/DAOD_HIGG3D1.10842583._000007.pool.root.1"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="AC2489FC-E49D-3445-854D-DA83F17A91EA">
+    <physical>
+      <pfn filetype="ROOT_All" name="PAOD_2LDF.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="F82874C8-2B8D-D248-99CA-493F0657D8CA">
+    <physical>
+      <pfn filetype="ROOT_All" name="/eos/user/m/metsai/DAOD/sig/vbf/mc16_13TeV.345323.PowhegPy8EG_NNPDF30_AZNLOCTEQ6L1_VBFH125_WWlvlv.deriv.DAOD_HIGG3D1.e5901_e5984_s3126_r9364_r9315_p3354/DAOD_HIGG3D1.12614170._000001.pool.root.1"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="9F60FE2B-3754-A648-9C69-B2CEF759E9E3">
+    <physical>
+      <pfn filetype="ROOT_All" name="/eos/user/m/metsai/DAOD/bkg/WW/mc16_13TeV/DAOD_HIGG3D1.12919256._000001.pool.root.1"/>
+    </physical>
+    <logical/>
+  </File>
+
+</POOLFILECATALOG>
